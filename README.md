@@ -45,20 +45,19 @@ Built using PyQt6.
 Simple interface designed for easy usage.
 
 🏗 Project Architecture
-AegisCrypt/
-│
-├── main.py                # Application entry point
-├── encryption.py          # AES encryption & decryption logic
-├── password_utils.py      # Password strength checker
-├── hash_utils.py          # SHA-256 hashing functions
-├── logger.py              # Security logging system
-│
-├── gui/
-│   ├── main_window.py     # PyQt6 GUI layout
-│   ├── encrypt_window.py  # Encryption interface
-│   └── decrypt_window.py  # Decryption interface
-│
-├── logs/
-│   └── security.log       # Activity logs
-├── requirements.txt
-└── README.md
+AegisCrypt/ 
+[main.py                # Application entry point
+encryption.py          # AES encryption & decryption logic
+password_utils.py      # Password strength checker
+hash_utils.py          # SHA-256 hashing functions
+logger.py              # Security logging system ]
+
+gui/
+[main_window.py     # PyQt6 GUI layout
+encrypt_window.py  # Encryption interface
+decrypt_window.py  # Decryption interface]
+
+logs/
+[security.log       # Activity logs
+requirements.txt
+README.md]
