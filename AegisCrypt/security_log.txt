@@ -1,0 +1,10 @@
+2026-01-07 19:53:30.887179 → ENCRYPTED: C:/Users/Acer/OneDrive/Desktop/CDS/upsc-cds-study-material-bd9a2bb2.pdf
+2026-01-07 19:53:35.392749 → DECRYPTED: C:/Users/Acer/OneDrive/Desktop/CDS/upsc-cds-study-material-bd9a2bb2.pdf
+2026-01-07 19:53:39.260118 → DECRYPTED: C:/Users/Acer/OneDrive/Desktop/CDS/upsc-cds-study-material-bd9a2bb2.pdf
+2026-01-07 19:53:41.812950 → ENCRYPTED: C:/Users/Acer/OneDrive/Desktop/CDS/upsc-cds-study-material-bd9a2bb2.pdf
+2026-01-07 19:53:48.843755 → ENCRYPTED: C:/Users/Acer/OneDrive/Desktop/CDS/upsc-cds-study-material-bd9a2bb2.pdf
+2026-01-07 19:53:49.683783 → DECRYPTED: C:/Users/Acer/OneDrive/Desktop/CDS/upsc-cds-study-material-bd9a2bb2.pdf
+2026-01-07 19:53:49.907127 → DECRYPTED: C:/Users/Acer/OneDrive/Desktop/CDS/upsc-cds-study-material-bd9a2bb2.pdf
+2026-01-07 19:57:58.198116 -> ENCRYPTED: C:/Users/Acer/OneDrive/Desktop/CDS/upsc-cds-study-material-bd9a2bb2.pdf
+2026-01-07 19:58:04.295187 -> ENCRYPTED: C:/Users/Acer/OneDrive/Desktop/CDS/upsc-cds-study-material-bd9a2bb2.pdf
+2026-01-07 19:58:51.629458 -> ENCRYPTED: C:/Users/Acer/Downloads/altroz-brochure.pdf
